@@ -1,1 +1,1 @@
-# pg-python
+Template for working with Postgres, Python, and HTTP requests
